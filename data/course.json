@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "7eee0004-fb5e-2cb8-de66-9c650ef92975",
+  "instructors": {
+    "content": [
+      "ac1a1bf4-53b4-9196-5424-0535fbd89489",
+      "4b92f9a6-c29f-a3a7-7718-5f6a5a9b28d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7490f8ad-dde5-26f1-c538-2f20b35a3d17",
+    "website": "21h-234j-downtown-spring-2005"
+  },
+  "course_title": "Downtown",
+  "course_description": "This seminar focuses on downtowns in U.S. cities from the late nineteenth century to the late twentieth century. Emphasis will be placed on downtown as an idea, place, and cluster of interests; on the changing character of downtown; and on recent efforts to rebuild it. Subjects to be considered will include subways, skyscrapers, highways, urban renewal, and retail centers. The focus will be on readings, discussions, and individual research projects.\n",
+  "department_numbers": [
+    "21H",
+    "11"
+  ],
+  "extra_course_numbers": "11.339J,11.026J",
+  "primary_course_number": "21H.234J",
+  "course_image_thumbnail": {
+    "content": "8fa11ef9-7f56-86df-354b-9d1f427fd2cb",
+    "website": "21h-234j-downtown-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "f40664ea-f5bb-45f6-b0bc-fa421756cfc0",
+  "site_short_id": "21h.234j-spring-2005",
+  "site_url_path": "courses/21h-234j-downtown-spring-2005",
+  "title": "Course Metadata"
+}
